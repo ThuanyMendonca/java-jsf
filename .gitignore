@@ -1,0 +1,39 @@
+# =========================
+# Arquivos e pastas da IDE
+# =========================
+.classpath
+.project
+.settings/
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# Build e dependências
+# =========================
+/target/
+/build/
+/out/
+
+# =========================
+# Servidores de aplicação (Eclipse / WTP)
+# =========================
+/.metadata/
+/Servers/
+/wtpwebapps/
+/tmp*/ 
+/logs/
+
+# =========================
+# Arquivos de sistema
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Arquivos temporários
+# =========================
+*.log
+*.swp
+*.tmp
+
